@@ -366,7 +366,7 @@ pydantic-settings==2.7.1
     # via django-setup-configuration
 pygments==2.20.0
     # via django-log-outgoing-requests
-pyjwt==2.12.1
+pyjwt==2.13.0
     # via
     #   commonground-api-common
     #   mozilla-django-oidc
